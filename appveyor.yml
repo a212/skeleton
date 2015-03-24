@@ -1,4 +1,3 @@
-os: Windows 7
 configuration: Release
 build:
   project: Win32Project1.sln
